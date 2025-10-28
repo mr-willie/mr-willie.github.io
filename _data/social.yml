@@ -4,18 +4,9 @@
 - title: 微信
   url: /weixin
   icon: fab fa-weixin
-- title: X (Twitter)
-  url: https://x.com/theprodigal365
-  icon: fab fa-twitter
-- title: Instagram
-  url: https://www.instagram.com/lefilsprodigue256/
-  icon: fab fa-instagram  
-- title: YouTube
-  url: https://www.youtube.com/@theprodigal365
-  icon: fab fa-youtube
 - title: GitHub 
-  url: https://github.com/theprodigal365/
+  url: https://github.com/mr-willie/
   icon: fab fa-github
 - title: Email
-  url: mailto:theprodigal365@gmail.com
+  url: mailto:han.junhui.06@outlook.com
   icon: fas fa-envelope
