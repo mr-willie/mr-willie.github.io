@@ -5,4 +5,4 @@ title: More
  
 | Avaliable Services |                     
 | :--- |                     
-| [Shanghainese Dictionary Online (Simplified Chinese Pages)](/shanghainese/) |                      
+| [上海言话在线辞典（简体中文）](/shanghainese/) |                      
