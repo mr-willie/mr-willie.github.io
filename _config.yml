@@ -1,0 +1,57 @@
+# Setup
+title: Xiaohueihueeei
+description: "Multum in Parvo."
+url: https://theprodigal365.github.io
+avatar: /images/tx3.jpg
+paginate: 8
+permalink: pretty
+cover_image: /images/bg7.jpg
+
+# Gems
+plugins:
+  - jekyll-gist
+  - jekyll-paginate
+  - jekyll-seo-tag
+  - jekyll-feed
+  - jekyll-sitemap
+
+# Optimize Jekyll
+exclude:
+  - .editorconfig
+  - .git
+  - .jekyll-cache
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE.md
+  - README.md
+  - scripts/
+  - not-pure-poole.gemspec
+
+# Optimize Jekyl SEO Tag
+twitter:
+  username: 
+  card: 
+logo: /images/tx2.jpg
+social:
+  name: 
+  links:
+google_site_verification: 
+lang: en
+
+sass:
+  sass_dir: _sass
+  style: :compressed
+
+# Options
+
+# Replace this value and uncomment to enable Google Analytics tracking
+# google_analytics: 
+
+# Replace this value and uncomment to enable Disqus
+# disqus: xxxxxx
+
+# Specify the author for blog posts
+author:
+  name: Xiaohueihueeei
+  url: /about
+  email: 
