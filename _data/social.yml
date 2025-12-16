@@ -1,3 +1,12 @@
+- title: X
+  url: https://x.com/monsieurlimbo
+  icon: fab fa-twitter
+- title: Instagram
+  url: https://www.instagram.com/k.kinghwayy/
+  icon: fab fa-instagram
+- title: YouTube
+  url: https://www.youtube.com/@monsieurlimbo
+  icon: fab fa-youtube
 - title: 微博
   url: https://weibo.com/sugoijoe
   icon: fab fa-weibo
