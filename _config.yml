@@ -1,6 +1,6 @@
 # Setup
-title: Monsieur Willie
-description: "Le monde plein de fleurs est avec moi."
+title: 小灰灰
+description: "充满鲜花的世界在我这里~"
 url: https://mr-willie.github.io
 avatar: /images/tx3.jpg
 paginate: 8
@@ -52,6 +52,6 @@ sass:
 
 # Specify the author for blog posts
 author:
-  name: Willie
+  name: 小灰灰
   url: /about
   email: 
