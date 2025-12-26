@@ -3,6 +3,6 @@ layout: page
 title: About
 ---
 
-Willie，男，2006年2月出生于上海。他通过参加各种学术和创新创业比赛，为“人工智能赋能地方传统文化传承”和“旅客道德地进行全球旅游”两个课题的发展做出了显著贡献。                     
+“小灰灰”，男，2006年2月出生于上海。他通过参加各种学术和创新创业比赛，为“人工智能赋能地方传统文化传承”和“旅客道德地进行全球旅游”两个课题的发展做出了显著贡献。                     
 
-Willie, male, was born in Shanghai in February 2006. He has made notable contributions to the development of "AI-enabled inheritance of local traditional cultures" and "ethical travel solutions in globe for tourists" through participation in various academic and innovation & entrepreneurship competitions.                          
+kawahui.com 和 hanjunhui.com 均是我的网站。请谨慎识别网址！如遇到特殊情况，可以通过邮件与我联系！全民反诈，守护生活！                 
